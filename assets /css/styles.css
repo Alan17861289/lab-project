@@ -1,0 +1,31 @@
+body {
+  background:#F0EEEE;
+  font-size:16px;
+  transition:background 1.2s ease;
+}
+
+h2 {
+  font-family:roboto;
+  font-size:1.875rem;
+  font-weight:bold;
+}
+
+h4 {
+  font-family:roboto;
+  font-size:1.875rem;
+  font-weight:400;
+  color:rgba(0,0,0,0.85);
+}
+
+h5 {
+  font-size:1.375rem;
+  font-weight:400;
+  font-family:roboto;
+}
+
+p {
+  /*font-size:1.2rem;*/
+  font-size:1.1vw;
+  font-family:Roboto, sans-serif;
+}
+

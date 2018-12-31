@@ -1,0 +1,66 @@
+div.jumbotron.carousel-hero {
+  color:#fff;
+  /*text-align:center;*/
+  background-size:cover;
+  background-position:center;
+  /*padding-top:100px;*/
+  /*padding-bottom:100px;*/
+  margin-bottom:0;
+  height:30rem;
+  /*width:50%;*/
+  /*height:100vh;*/
+}
+
+div.jumbotron.hero-nature {
+  background-image:url('../../assets/img/hero-background-nature.jpg');
+}
+
+div.jumbotron.hero-photography {
+  background-image:url('../../assets/img/hero-background-photography.jpg');
+}
+
+div.jumbotron.hero-technology {
+  background-image:url('../../assets/img/hero-background-technology.jpg');
+}
+
+h1.hero-title, h2.hero-title, h3.hero-title {
+  text-shadow:0 3px 3px rgba(0,0,0,0.4);
+  color:#fff;
+}
+
+p.hero-subtitle {
+  max-width:600px;
+  margin:25px auto;
+  padding:10px 15px;
+  color:#fff;
+}
+
+#introduction-of-lab {
+  background:white;
+}
+
+@media (max-width: 769px) {
+  #introduction-of-lab p {
+    /*font-size:1rem;*/
+  }
+}
+
+@media (max-width: 769px) {
+  #introduction-of-lab h4 {
+    font-size:1.375rem;
+  }
+}
+
+#hero-column {
+  padding-left:0;
+  padding-right:0;
+}
+
+#introduction-of-lab {
+  padding:3.01rem;
+}
+
+.carousel-inner {
+  height:100%;
+}
+

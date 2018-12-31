@@ -1,0 +1,21 @@
+.footer-2 {
+  background-color:white;
+  color:#FF0022;
+}
+
+@media (max-width: 767px) {
+  .footer-2 p {
+    text-align:center;
+  }
+}
+
+.footer-2 h5 {
+  font-weight:bold;
+  padding-top:1rem;
+  margin-bottom:-0.1rem;
+}
+
+.footer-2 p {
+  font-size:0.625rem;
+}
+
